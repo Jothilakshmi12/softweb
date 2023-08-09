@@ -1,4 +1,3 @@
-
 # Ex.07 Software Product Company Website
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
@@ -725,7 +724,8 @@ styles.css
 
 
 ## HTML VALIDATOR:
-![valid](https://github.com/Jothilakshmi12/softweb/assets/138849182/2fe326e5-cea9-49c9-92a1-f404e5e2747e)
+![validate](https://github.com/Jothilakshmi12/softweb/assets/138849182/5b4c13d5-2f86-40de-a01b-fb643ba8d5da)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
